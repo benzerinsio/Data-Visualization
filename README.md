@@ -7,8 +7,8 @@ Bem-vindo ao meu portfólio de visualização de dados! Aqui você encontrará p
 ---
 
 ## Estrutura do Repositório 🗂️
-- **Tableau/**: Projetos feitos com Tableau Public.  
-- **PowerBI/**: Projetos feitos com Power BI (a serem adicionados).  
+- **Tableau**: Projetos feitos com Tableau Public.  
+- **PowerBI**: Projetos feitos com Power BI (a serem adicionados).  
 
 ---
 
