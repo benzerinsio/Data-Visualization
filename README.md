@@ -20,7 +20,10 @@ Bem-vindo ao meu portfólio de visualização de dados! Aqui você encontrará p
    - [Veja o dashboard aqui](https://public.tableau.com/app/profile/felipe.sousa8487/viz/OnlineRetailDataset_17418115724380/Dashboard1)
    - [Confira o Repositório](https://github.com/benzerinsio/OnlineRetail-Tableau)
 
-*(Mais projetos Tableau serão adicionados em breve!)*
+2. **Análise de Desempenho de Filmes**  
+   - Dashboard com Top 5 atores, gêneros e diretores por filmes e receita.  
+   - [Veja o dashboard aqui](https://public.tableau.com/app/profile/felipe.sousa8487/viz/IMDB-Tableau_17418779453400/Dashboard1)
+   - [Confira o Repositório](https://github.com/benzerinsio/IMDBTop1000-Tableau)
 
 ### Power BI
 *(Projetos em andamento. Confira em breve!)*  
