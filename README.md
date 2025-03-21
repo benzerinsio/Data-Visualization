@@ -29,6 +29,9 @@ Bem-vindo ao meu portfólio de visualização de dados! Aqui você encontrará p
 1. **Análise de Satisfação de Clientes**  
    - Dashboard básico que explora a satisfação de passageiros de companhias aéreas dos EUA, com base no dataset 'US Airline Passenger Satisfaction'. Mostra padrões por tipo de viagem e classe, com preprocessamento em SQLite para otimização dos dados.
    - [Confira o Repositório](https://github.com/benzerinsio/USAirlineSatisfaction-PowerBI)
+2. **Análise de Clima em Seattle**
+   - Dashboard básico que explora padrões climáticos de Seattle, com base no dataset 'Seattle Weather'. Mostra temperaturas e precipitação por ano e mês, com preprocessamento em SQLite para agregação dos dados.
+   - [Confira o Repositório](https://github.com/benzerinsio/SeattleWeather-PowerBI)
 
 ---
 
