@@ -8,7 +8,7 @@ Bem-vindo ao meu portfólio de visualização de dados! Aqui você encontrará p
 
 ## Estrutura do Repositório 🗂️
 - **Tableau**: Projetos feitos com Tableau Public.  
-- **PowerBI**: Projetos feitos com Power BI (a serem adicionados).  
+- **PowerBI**: Projetos feitos com Power BI.  
 
 ---
 
@@ -26,22 +26,21 @@ Bem-vindo ao meu portfólio de visualização de dados! Aqui você encontrará p
    - [Confira o Repositório](https://github.com/benzerinsio/IMDBTop1000-Tableau)
 
 ### Power BI
-*(Projetos em andamento. Confira em breve!)*  
-- Análise de satisfação de clientes (intermediário).  
-- Análise de vendas e estoque (avançado).  
-- Pipeline ETL para tendências de e-commerce (relevante).  
+1. **Análise de Satisfação de Clientes**  
+   - Dashboard básico que explora a satisfação de passageiros de companhias aéreas dos EUA, com base no dataset 'US Airline Passenger Satisfaction'. Mostra padrões por tipo de viagem e classe, com preprocessamento em SQLite para otimização dos dados.
+   - [Confira o Repositório](https://github.com/benzerinsio/USAirlineSatisfaction-PowerBI)
 
 ---
 
 ## Como Visualizar 👀
-1. Clique nos links acima para ver os dashboards interativos no Tableau Public ou Power BI online.  
-2. Ou baixe os arquivos das pastas e abra localmente nas respectivas ferramentas (Tableau Public ou Power BI Desktop).  
+1. Clique nos links acima para ver os dashboards interativos no Tableau Public ou Power BI (Download).  
+2. Ou baixe os arquivos das pastas e abra localmente nas respectivas ferramentas (Tableau Public ou Power BI).  
 
 ---
 
 ## Tecnologias Usadas 🛠️
 - Tableau Public  
-- Power BI (em breve)  
+- Power BI
 - Datasets do Kaggle
 - SQL
 
